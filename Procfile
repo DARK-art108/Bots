@@ -1,1 +1,2 @@
-worker: osdc-bots 
+worker: telegram-bot
+
